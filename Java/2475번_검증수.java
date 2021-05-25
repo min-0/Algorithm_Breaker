@@ -12,5 +12,7 @@ public class _2475번_검증수 {
         }
 
         System.out.println(sum % 10);
+
+        sc.close();
     }
 }
