@@ -4,7 +4,6 @@ using namespace std;
 
 int main(){
 	int heru, ausar, auset;
-	int sum = 0;
 
 	while (true){
 		cin >> heru >> ausar >> auset;
