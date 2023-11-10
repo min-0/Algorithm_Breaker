@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class 나머지구하기 {
+public class 나머지더하기 {
     static Scanner sc = new Scanner(System.in);
     public int Solution(int size, int [] intArr) {
         int sum = 0;
@@ -14,7 +14,7 @@ public class 나머지구하기 {
         return sum;
     }
     public static void main(String[] args) {
-        나머지구하기 m = new 나머지구하기();
+        나머지더하기 m = new 나머지더하기();
         int num = sc.nextInt();
         int p = 0;
         int size = 0;
