@@ -1,6 +1,3 @@
-import java.util.Arrays;
-import java.util.Collections;
-
 class Solution {
     public int [] solution(long n) {
         String [] str = String.valueOf(n).split("");
